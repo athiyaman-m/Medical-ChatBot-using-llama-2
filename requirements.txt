@@ -1,5 +1,5 @@
-ctransformers==0.2.5 #To load Quantized model in cpu (for langchain)
-sentence-transformers == 2.2.2 #for embedding
-pinecode-client #vector DB
+ctransformers==0.2.5 
+sentence-transformers == 2.2.2 
+pinecone-client == 2.2.4
 langchain==0.0.225 
 flask
