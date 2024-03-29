@@ -51,3 +51,9 @@ The **tech stack** used for this project includes:
 5. **Pinecone:** A vector database used for storing the text embeddings.
 
 In summary, this Medical ChatBot project leverages advanced NLP techniques and a robust tech stack to provide users with accurate medical information based on their queries. It represents a significant step forward in the field of AI-driven healthcare solutions.
+
+# Output
+![Screenshot (234)](https://github.com/athiyaman-m/Medical-ChatBot-using-llama-2/assets/116479721/405e8dc2-1089-4426-bde1-e6e2c835a643)
+
+
+
